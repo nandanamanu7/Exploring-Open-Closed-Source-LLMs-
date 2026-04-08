@@ -1,0 +1,92 @@
+{"instruction":"Rewrite the sentence to be more polite.","input":"Give me that.","output":"Could you please give me that?"}
+{"instruction":"Rewrite the sentence to be more polite.","input":"Send me the file.","output":"Could you please send me the file?"}
+{"instruction":"Rewrite the sentence to be more polite.","input":"Open the door.","output":"Could you please open the door?"}
+{"instruction":"Rewrite the sentence to be more polite.","input":"Close the window.","output":"Could you please close the window?"}
+{"instruction":"Rewrite the sentence to be more polite.","input":"Finish the report.","output":"Could you please finish the report?"}
+{"instruction":"Rewrite the sentence to be more polite.","input":"Call me back.","output":"Could you please call me back?"}
+{"instruction":"Rewrite the sentence to be more polite.","input":"Explain this problem.","output":"Could you please explain this problem?"}
+{"instruction":"Rewrite the sentence to be more polite.","input":"Bring the notebook.","output":"Could you please bring the notebook?"}
+{"instruction":"Rewrite the sentence to be more polite.","input":"Turn on the light.","output":"Could you please turn on the light?"}
+{"instruction":"Rewrite the sentence to be more polite.","input":"Turn off the fan.","output":"Could you please turn off the fan?"}
+{"instruction":"Rewrite the sentence to be more polite.","input":"Pass the salt.","output":"Could you please pass the salt?"}
+{"instruction":"Rewrite the sentence to be more polite.","input":"Move this box.","output":"Could you please move this box?"}
+{"instruction":"Rewrite the sentence to be more polite.","input":"Help me with this.","output":"Could you please help me with this?"}
+{"instruction":"Rewrite the sentence to be more polite.","input":"Write this down.","output":"Could you please write this down?"}
+{"instruction":"Rewrite the sentence to be more polite.","input":"Check this code.","output":"Could you please check this code?"}
+{"instruction":"Rewrite the sentence to be more polite.","input":"Print this page.","output":"Could you please print this page?"}
+{"instruction":"Rewrite the sentence to be more polite.","input":"Bring some water.","output":"Could you please bring some water?"}
+{"instruction":"Rewrite the sentence to be more polite.","input":"Wait here.","output":"Could you please wait here?"}
+{"instruction":"Rewrite the sentence to be more polite.","input":"Read this chapter.","output":"Could you please read this chapter?"}
+{"instruction":"Rewrite the sentence to be more polite.","input":"Fix this bug.","output":"Could you please fix this bug?"}
+{"instruction":"Rewrite the sentence to be more polite.","input":"Stand up.","output":"Could you please stand up?"}
+{"instruction":"Rewrite the sentence to be more polite.","input":"Sit down.","output":"Could you please sit down?"}
+{"instruction":"Rewrite the sentence to be more polite.","input":"Send the email.","output":"Could you please send the email?"}
+{"instruction":"Rewrite the sentence to be more polite.","input":"Complete the form.","output":"Could you please complete the form?"}
+{"instruction":"Rewrite the sentence to be more polite.","input":"Hold this bag.","output":"Could you please hold this bag?"}
+{"instruction":"Rewrite the sentence to be more polite.","input":"Take a seat.","output":"Could you please take a seat?"}
+{"instruction":"Rewrite the sentence to be more polite.","input":"Wash the dishes.","output":"Could you please wash the dishes?"}
+{"instruction":"Rewrite the sentence to be more polite.","input":"Lock the door.","output":"Could you please lock the door?"}
+{"instruction":"Rewrite the sentence to be more polite.","input":"Unlock the car.","output":"Could you please unlock the car?"}
+{"instruction":"Rewrite the sentence to be more polite.","input":"Bring your laptop.","output":"Could you please bring your laptop?"}
+
+{"instruction":"Classify the sentiment as positive/negative.","input":"I love this movie.","output":"positive"}
+{"instruction":"Classify the sentiment as positive/negative.","input":"This food tastes amazing.","output":"positive"}
+{"instruction":"Classify the sentiment as positive/negative.","input":"I am very happy today.","output":"positive"}
+{"instruction":"Classify the sentiment as positive/negative.","input":"This product is excellent.","output":"positive"}
+{"instruction":"Classify the sentiment as positive/negative.","input":"The concert was fantastic.","output":"positive"}
+{"instruction":"Classify the sentiment as positive/negative.","input":"I really enjoyed this.","output":"positive"}
+{"instruction":"Classify the sentiment as positive/negative.","input":"The design looks beautiful.","output":"positive"}
+{"instruction":"Classify the sentiment as positive/negative.","input":"Best experience ever.","output":"positive"}
+{"instruction":"Classify the sentiment as positive/negative.","input":"I like this app.","output":"positive"}
+{"instruction":"Classify the sentiment as positive/negative.","input":"Wonderful performance.","output":"positive"}
+{"instruction":"Classify the sentiment as positive/negative.","input":"This is terrible.","output":"negative"}
+{"instruction":"Classify the sentiment as positive/negative.","input":"Worst purchase ever.","output":"negative"}
+{"instruction":"Classify the sentiment as positive/negative.","input":"I hate this.","output":"negative"}
+{"instruction":"Classify the sentiment as positive/negative.","input":"This service is awful.","output":"negative"}
+{"instruction":"Classify the sentiment as positive/negative.","input":"Very disappointing.","output":"negative"}
+{"instruction":"Classify the sentiment as positive/negative.","input":"The movie was boring.","output":"negative"}
+{"instruction":"Classify the sentiment as positive/negative.","input":"This is the worst.","output":"negative"}
+{"instruction":"Classify the sentiment as positive/negative.","input":"I regret buying this.","output":"negative"}
+{"instruction":"Classify the sentiment as positive/negative.","input":"Extremely annoying.","output":"negative"}
+{"instruction":"Classify the sentiment as positive/negative.","input":"Poor quality.","output":"negative"}
+{"instruction":"Classify the sentiment as positive/negative.","input":"Amazing work.","output":"positive"}
+{"instruction":"Classify the sentiment as positive/negative.","input":"Horrible customer service.","output":"negative"}
+{"instruction":"Classify the sentiment as positive/negative.","input":"Super fun experience.","output":"positive"}
+{"instruction":"Classify the sentiment as positive/negative.","input":"Really bad taste.","output":"negative"}
+{"instruction":"Classify the sentiment as positive/negative.","input":"Perfect result.","output":"positive"}
+{"instruction":"Classify the sentiment as positive/negative.","input":"Completely useless.","output":"negative"}
+{"instruction":"Classify the sentiment as positive/negative.","input":"Very enjoyable.","output":"positive"}
+{"instruction":"Classify the sentiment as positive/negative.","input":"Totally frustrating.","output":"negative"}
+{"instruction":"Classify the sentiment as positive/negative.","input":"Absolutely loved it.","output":"positive"}
+{"instruction":"Classify the sentiment as positive/negative.","input":"Very upsetting.","output":"negative"}
+
+{"instruction":"Extract the city from the text.","input":"I flew from Seattle to Boston yesterday.","output":"Boston"}
+{"instruction":"Extract the city from the text.","input":"She moved to Chicago last year.","output":"Chicago"}
+{"instruction":"Extract the city from the text.","input":"He lives in Miami now.","output":"Miami"}
+{"instruction":"Extract the city from the text.","input":"We stayed in Dallas for two days.","output":"Dallas"}
+{"instruction":"Extract the city from the text.","input":"I traveled to Denver last week.","output":"Denver"}
+{"instruction":"Extract the city from the text.","input":"They visited Austin during summer.","output":"Austin"}
+{"instruction":"Extract the city from the text.","input":"She works in New York.","output":"New York"}
+{"instruction":"Extract the city from the text.","input":"He moved to Portland recently.","output":"Portland"}
+{"instruction":"Extract the city from the text.","input":"We drove to Phoenix.","output":"Phoenix"}
+{"instruction":"Extract the city from the text.","input":"I studied in San Diego.","output":"San Diego"}
+{"instruction":"Extract the city from the text.","input":"He relocated to Houston.","output":"Houston"}
+{"instruction":"Extract the city from the text.","input":"They met in San Jose.","output":"San Jose"}
+{"instruction":"Extract the city from the text.","input":"She moved to Atlanta.","output":"Atlanta"}
+{"instruction":"Extract the city from the text.","input":"I visited Los Angeles.","output":"Los Angeles"}
+{"instruction":"Extract the city from the text.","input":"He stayed in Las Vegas.","output":"Las Vegas"}
+{"instruction":"Extract the city from the text.","input":"They traveled to Orlando.","output":"Orlando"}
+{"instruction":"Extract the city from the text.","input":"We stopped in Sacramento.","output":"Sacramento"}
+{"instruction":"Extract the city from the text.","input":"She lives in Tampa.","output":"Tampa"}
+{"instruction":"Extract the city from the text.","input":"He studied in Irvine.","output":"Irvine"}
+{"instruction":"Extract the city from the text.","input":"I worked in Oakland.","output":"Oakland"}
+{"instruction":"Extract the city from the text.","input":"She visited Seattle.","output":"Seattle"}
+{"instruction":"Extract the city from the text.","input":"He moved to Long Beach.","output":"Long Beach"}
+{"instruction":"Extract the city from the text.","input":"We stayed in Fresno.","output":"Fresno"}
+{"instruction":"Extract the city from the text.","input":"I went to Anaheim.","output":"Anaheim"}
+{"instruction":"Extract the city from the text.","input":"They traveled to Riverside.","output":"Riverside"}
+{"instruction":"Extract the city from the text.","input":"She works in Pasadena.","output":"Pasadena"}
+{"instruction":"Extract the city from the text.","input":"He lives in Santa Monica.","output":"Santa Monica"}
+{"instruction":"Extract the city from the text.","input":"I drove to San Francisco.","output":"San Francisco"}
+{"instruction":"Extract the city from the text.","input":"They relocated to San Diego.","output":"San Diego"}
+{"instruction":"Extract the city from the text.","input":"We flew to Boston.","output":"Boston"}
