@@ -1,0 +1,6 @@
+{"instruction":"Rewrite the sentence to be more polite.","input":"Give me that.","output":"Could you please give me that?"}
+
+{"instruction":"Classify the sentiment as positive/negative.","input":"I regret buying this.","output":"negative"}
+
+{"instruction":"Extract the city from the text.","input":"He moved to Portland recently.","output":"Portland"}
+
